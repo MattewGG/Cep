@@ -105,7 +105,8 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    flexDirection: 'column'
+    flexDirection: 'column',
+    backgroundColor: "#9fc6e9"
   },
   nav: {  
    flexDirection: "row",
